@@ -48,7 +48,7 @@ Nobody was planning for changes in the program and lots of dependencies existed.
 
 A new technique evolved which allowed data to be divided into separated scopes called "objects". Only specific procedures belonging to the same scope could access the same data. This is called data hiding or encapsulation. The result was much better organized code.
 
-In the beginning objects where not called objects, they where just viewed upon as separate scopes. Later when dependencies were reduced and connections between procedures and variables inside these scopes where viewed upon as isolated segments, the result gave birth to the concepts of "objects" and "object-oriented programming".
+In the beginning objects were not called objects, they were just viewed upon as separate scopes. Later when dependencies were reduced and connections between procedures and variables inside these scopes were viewed upon as isolated segments, the result gave birth to the concepts of "objects" and "object-oriented programming".
 
 Later, mainly due to the development of Java, certain "buzzwords" arose and "a procedure" or "a function" was no longer called a function, but was renamed "a method" when it resided inside a separate scope. Variables was also no longer called "variables", but was renamed "attributes" when they resided inside a separate scope.
 
